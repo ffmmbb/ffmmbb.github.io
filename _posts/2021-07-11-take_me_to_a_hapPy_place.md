@@ -1,4 +1,4 @@
-# Title
+# take me to a hapPy place
 
 
 
@@ -109,7 +109,7 @@ sns.boxplot(y='playlist_name', x='valence', data=playlist_r_features)
 
 
 
-![png](images/Spotipy Exploration_files/output_3_1.png)
+![png](/images/Spotipy Exploration_files/output_3_1.png)
 
 
 Generally you can see some trends emerging.
@@ -130,7 +130,7 @@ sns.boxplot(y='playlist_name', x='danceability', data=playlist_r_features)
 
 
 
-![png](images/Spotipy Exploration_files/output_6_1.png)
+![png](/images/Spotipy Exploration_files/output_6_1.png)
 
 
 That meditation can get quite danceable, eh?
