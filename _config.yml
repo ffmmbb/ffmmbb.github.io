@@ -8,10 +8,10 @@
 
 title: franalytics
 description: blogging about stuff I enjoy on a periodic basis
-#github_username: ffmmbb
+github_username: ffmmbb
 
 # Email and twitter are optional:
-email: francisbarrett91@gmail.com
+#email: francisbarrett91@gmail.com
 twitter_username: _francisbarrett
 
 # Set this to true to get LaTeX math equation support
